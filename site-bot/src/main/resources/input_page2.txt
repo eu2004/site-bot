@@ -1,0 +1,648 @@
+6secs 	189.219.91.169 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	61.191.27.117 	443 	flag China 	
+	
+	HTTP 	High +KA
+6secs 	123.195.148.199 	80 	flag Taiwan 	
+	
+	HTTP 	High +KA
+6secs 	201.166.200.76 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	45.127.97.138 	1080 	flag USA 	
+	
+	socks4/5 	High +KA
+6secs 	119.28.6.76 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+6secs 	116.192.90.214 	1080 	flag Switzerland 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.202.204 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.181.249 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	201.55.143.1 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+6secs 	121.42.142.104 	1080 	flag Hong Kong 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.187.152 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	117.135.250.133 	8080 	flag China 	
+	
+	HTTP 	High +KA
+6secs 	183.129.210.18 	8888 	flag China 	
+	
+	HTTP 	High +KA
+6secs 	201.166.208.175 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	201.166.215.162 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	115.154.138.20 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+6secs 	201.166.200.102 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	106.184.7.45 	80 	flag Japan 	
+	
+	HTTP 	High +KA
+6secs 	189.219.191.239 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.184.177 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.205.192 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	189.219.136.156 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+6secs 	122.235.89.15 	1080 	flag USA 	
+	
+	socks4/5 	High +KA
+6secs 	198.169.246.30 	80 	flag Canada 	
+	
+	HTTPS 	High +KA
+6secs 	134.119.20.197 	80 	flag Norway 	
+	
+	HTTP 	High +KA
+6secs 	62.255.82.98 	1080 	flag UK 	
+	
+	socks4/5 	High +KA
+6secs 	195.154.231.43 	3128 	flag France 	
+	
+	HTTPS 	High +KA
+6secs 	122.193.14.108 	80 	flag China 	
+	
+	HTTP 	High +KA
+40secs 	189.219.136.5 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	37.186.214.39 	80 	flag Austria 	
+	
+	HTTP 	High +KA
+1min 	189.219.167.68 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.160.140 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.192.37.60 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.94.87 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.255.52 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.54.232 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.138.148 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.76.6 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.85.39 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.198.226 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	114.218.166.217 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+1min 	81.94.162.140 	8080 	flag Sweden 	
+	
+	HTTPS 	High +KA
+1min 	189.219.97.60 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.166.33 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.229.42 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.185.241 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.199.62.13 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.98.7 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.98.115 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.193.205.230 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	96.5.28.23 	8008 	flag USA 	
+	
+	HTTP 	High +KA
+1min 	189.198.187.59 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.97.63 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.199.34.213 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.208.168 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.241.168 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	189.219.94.167 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	201.165.244.26 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1min 	122.193.14.109 	80 	flag China 	
+	
+	HTTP 	High +KA
+1min 	120.198.231.22 	8080 	flag China 	
+	
+	HTTP 	High +KA
+3mins 	86.57.227.78 	1080 	flag Belarus 	
+	
+	socks4/5 	High +KA
+3mins 	189.219.221.20 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+3mins 	27.34.246.116 	8080 	flag India 	
+	
+	HTTPS 	High +KA
+3mins 	122.193.14.110 	80 	flag China 	
+	
+	HTTP 	High +KA
+3mins 	24.157.37.61 	8080 	flag USA 	
+	
+	HTTPS 	High +KA
+3mins 	189.219.103.171 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+3mins 	218.213.166.218 	81 	flag Hong Kong 	
+	
+	HTTP 	High +KA
+4mins 	210.45.212.96 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+4mins 	92.222.69.53 	8888 	flag Germany 	
+	
+	HTTPS 	High +KA
+6mins 	186.64.125.2 	80 	flag Argentina 	
+	
+	HTTPS 	High +KA
+6mins 	183.234.48.201 	8080 	flag China 	
+	
+	HTTP 	High +KA
+6mins 	122.193.14.85 	80 	flag China 	
+	
+	HTTP 	High +KA
+6mins 	173.44.178.241 	1080 	flag USA 	
+	
+	socks4/5 	High +KA
+8mins 	117.136.234.12 	82 	flag China 	
+	
+	HTTP 	High +KA
+8mins 	189.219.211.185 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+8mins 	84.75.168.193 	80 	flag Switzerland 	
+	
+	HTTP 	High +KA
+9mins 	166.62.97.239 	18628 	flag USA 	
+	
+	socks4/5 	High +KA
+9mins 	122.193.14.106 	80 	flag China 	
+	
+	HTTP 	High +KA
+9mins 	189.197.46.140 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+11mins 	189.193.150.26 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+13mins 	122.193.14.103 	80 	flag China 	
+	
+	HTTP 	High +KA
+14mins 	120.25.229.225 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+14mins 	121.69.22.250 	8118 	flag China 	
+	
+	HTTP 	High +KA
+15mins 	122.144.131.111 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+18mins 	122.193.14.102 	80 	flag China 	
+	
+	HTTP 	High +KA
+19mins 	218.19.216.242 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+19mins 	121.229.183.241 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+20mins 	109.251.162.7 	1080 	flag Ukraine 	
+	
+	socks4/5 	High +KA
+20mins 	189.219.165.159 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+22mins 	201.159.208.39 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+24mins 	79.165.50.14 	4444 	flag Russia 	
+	
+	HTTP 	High +KA
+32mins 	121.69.22.6 	8118 	flag China 	
+	
+	HTTP 	High +KA
+32mins 	212.83.147.0 	80 	flag France 	
+	
+	HTTPS 	High +KA
+52mins 	139.130.106.241 	1080 	flag Australia 	
+	
+	socks4/5 	High +KA
+1h 7mins 	190.199.51.209 	8080 	flag Venezuela 	
+	
+	HTTPS 	High +KA
+1h 12mins 	166.62.97.240 	18628 	flag USA 	
+	
+	socks4/5 	High +KA
+1h 16mins 	166.62.82.206 	18628 	flag USA 	
+	
+	socks4/5 	High +KA
+1h 20mins 	190.72.136.85 	8080 	flag Venezuela 	
+	
+	HTTPS 	High +KA
+1h 32mins 	31.185.29.147 	8081 	flag Norway 	
+	
+	HTTP 	Low 
+	1h 38mins 	90.156.143.230 	1080 	flag Russia 	
+	
+	socks4/5 	High +KA
+1h 45mins 	189.219.242.113 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+1h 48mins 	186.67.123.238 	1080 	flag Chile 	
+	
+	socks4/5 	High +KA
+2h 3mins 	189.219.102.220 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+2h 47mins 	121.69.28.86 	8118 	flag China 	
+	
+	HTTP 	High +KA
+2h 59mins 	189.219.81.67 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+3h 	166.62.97.243 	18628 	flag USA 	
+	
+	socks4/5 	High +KA
+3h 13mins 	122.193.14.114 	80 	flag China 	
+	
+	HTTP 	High +KA
+3h 17mins 	190.77.148.240 	8080 	flag Venezuela 	
+	
+	HTTPS 	High +KA
+3h 39mins 	189.219.94.2 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+3h 45mins 	166.62.97.245 	18628 	flag USA 	
+	
+	socks4/5 	High +KA
+3h 49mins 	189.219.159.33 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+3h 50mins 	82.197.240.109 	3128 	flag Sweden 	
+	
+	HTTPS 	High +KA
+4h 2mins 	202.195.192.197 	3128 	flag China 	
+	
+	HTTP 	High +KA
+4h 6mins 	189.219.167.97 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+4h 15mins 	189.196.53.140 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+4h 27mins 	189.219.92.25 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+4h 40mins 	189.219.52.254 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+4h 45mins 	186.91.235.45 	8080 	flag Venezuela 	
+	
+	HTTPS 	High +KA
+4h 47mins 	177.69.61.114 	80 	flag Brazil 	
+	
+	HTTP 	High +KA
+4h 52mins 	189.219.179.86 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+5h 6mins 	119.29.147.153 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+5h 6mins 	58.220.10.7 	80 	flag China 	
+	
+	HTTP 	High +KA
+5h 14mins 	189.219.239.188 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+5h 48mins 	178.124.180.246 	8080 	flag Belarus 	
+	
+	HTTPS 	High +KA
+5h 51mins 	64.26.95.14 	8080 	flag USA 	
+	
+	HTTP 	Low
+6h 39mins 	206.246.82.2 	443 	flag Canada 	
+	
+	HTTPS 	High +KA
+7h 3mins 	114.66.7.147 	8080 	flag China 	
+	
+	HTTP 	High +KA
+7h 7mins 	163.177.79.4 	8106 	flag China 	
+	
+	HTTPS 	High +KA
+7h 12mins 	163.177.79.4 	8107 	flag China 	
+	
+	HTTPS 	High +KA
+7h 43mins 	221.176.14.72 	80 	flag China 	
+	
+	HTTP 	High
+8h 8mins 	163.177.79.5 	8107 	flag China 	
+	
+	HTTPS 	High +KA
+8h 9mins 	163.177.79.4 	8104 	flag China 	
+	
+	HTTPS 	High +KA
+8h 20mins 	117.135.250.138 	80 	flag China 	
+	
+	HTTP 	High +KA
+8h 21mins 	216.16.221.248 	10000 	flag USA 	
+	
+	socks4/5 	High +KA
+8h 37mins 	189.219.212.106 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+8h 38mins 	122.96.59.104 	81 	flag China 	
+	
+	HTTP 	High +KA
+8h 39mins 	177.135.180.180 	3128 	flag Brazil 	
+	
+	HTTPS 	High +KA
+8h 46mins 	186.28.252.203 	8089 	flag Colombia 	
+	
+	HTTP 	High +KA
+8h 57mins 	189.219.160.116 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+9h 33mins 	189.219.164.52 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+9h 37mins 	189.219.162.34 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+10h 9mins 	189.219.255.39 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+10h 32mins 	189.219.172.201 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+10h 37mins 	119.188.94.145 	80 	flag China 	
+	
+	HTTPS 	High +KA
+10h 51mins 	221.212.74.204 	8888 	flag China 	
+	
+	HTTP 	High +KA
+11h 16mins 	117.136.234.11 	80 	flag China 	
+	
+	HTTP 	High +KA
+11h 30mins 	182.254.226.161 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+11h 44mins 	121.69.23.174 	8118 	flag China 	
+	
+	HTTP 	High +KA
+11h 44mins 	166.111.120.164 	10080 	flag China 	
+	
+	socks4/5 	High +KA
+12h 14mins 	189.219.98.214 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+12h 18mins 	110.74.182.54 	55555 	flag Malaysia 	
+	
+	socks4/5 	High +KA
+12h 25mins 	189.219.102.253 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+12h 26mins 	189.219.187.83 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+12h 52mins 	189.219.98.223 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+13h 8mins 	189.219.85.189 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+13h 13mins 	121.40.34.139 	3128 	flag Hong Kong 	
+	
+	socks4/5 	High +KA
+13h 24mins 	182.90.66.87 	80 	flag China 	
+	
+	HTTPS 	High +KA
+13h 40mins 	189.219.172.189 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+13h 47mins 	117.136.234.6 	80 	flag China 	
+	
+	HTTP 	High +KA
+13h 49mins 	122.96.59.107 	81 	flag China 	
+	
+	HTTP 	High +KA
+13h 49mins 	124.160.194.72 	80 	flag China 	
+	
+	HTTP 	High +KA
+13h 59mins 	163.177.79.4 	80 	flag China 	
+	
+	HTTPS 	High +KA
+14h 16mins 	31.131.67.76 	8080 	flag Ukraine 	
+	
+	HTTPS 	High +KA
+14h 34mins 	218.191.30.163 	80 	flag Hong Kong 	
+	
+	HTTP 	High +KA
+14h 46mins 	62.75.236.76 	20118 	flag USA 	
+	
+	socks4/5 	High +KA
+15h 2mins 	137.135.166.225 	8123 	flag Poland 	
+	
+	HTTPS 	High +KA
+15h 8mins 	195.239.175.190 	3128 	flag Russia 	
+	
+	HTTP 	Low
+15h 30mins 	210.101.131.232 	8080 	flag Korea 	
+	
+	HTTP 	Low
+15h 31mins 	60.29.248.142 	8080 	flag China 	
+	
+	HTTPS 	High +KA
+15h 44mins 	136.0.16.217 	7808 	flag USA 	
+	
+	HTTPS 	High +KA
+15h 50mins 	189.219.152.32 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+15h 50mins 	213.157.52.75 	3130 	flag Kazakhstan 	
+	
+	HTTP 	Low
+16h 1min 	189.219.136.29 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 12mins 	82.94.215.151 	9050 	flag Germany 	
+	
+	socks4/5 	High +KA
+16h 13mins 	189.219.170.223 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 17mins 	189.219.162.45 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 22mins 	189.219.187.57 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 22mins 	123.56.94.68 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+16h 32mins 	189.219.98.20 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 47mins 	189.219.52.206 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 49mins 	189.192.32.194 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+16h 49mins 	189.219.53.247 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+17h 5mins 	183.62.251.19 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+17h 33mins 	218.97.194.199 	81 	flag China 	
+	
+	HTTP 	High +KA
+17h 33mins 	177.103.218.184 	3128 	flag Brazil 	
+	
+	HTTP 	Low
+17h 45mins 	189.219.102.85 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+17h 58mins 	183.207.228.122 	80 	flag China 	
+	
+	HTTP 	High +KA
+17h 58mins 	189.219.168.42 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+17h 58mins 	189.219.130.146 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+18h 13mins 	189.219.104.193 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+18h 21mins 	218.97.194.200 	81 	flag China 	
+	
+	HTTP 	High +KA
+18h 42mins 	218.97.194.200 	80 	flag China 	
+	
+	HTTP 	High +KA
+18h 42mins 	213.57.89.97 	18000 	flag Israel 	
+	
+	HTTP 	High +KA
+18h 49mins 	208.109.251.68 	4567 	flag USA 	
+	
+	socks4/5 	High +KA
+19h 5mins 	189.219.164.7 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+19h 24mins 	189.219.94.41 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+19h 34mins 	150.138.201.2 	8088 	flag China 	
+	
+	HTTP 	High +KA
+19h 35mins 	189.219.19.47 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+19h 38mins 	189.219.83.1 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA 
+19h 49mins 	189.219.243.117 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+20h 7mins 	109.232.106.142 	3128 	flag Russia 	
+	
+	HTTPS 	High +KA
+21h 14mins 	203.195.162.96 	8080 	flag China 	
+	
+	HTTP 	High +KA
+21h 32mins 	189.219.221.215 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+21h 35mins 	109.173.22.232 	1080 	flag Russia 	
+	
+	socks4/5 	High +KA
+21h 40mins 	125.72.125.14 	1080 	flag China 	
+	
+	socks4/5 	High +KA
+21h 46mins 	220.226.188.171 	80 	flag India 	
+	
+	HTTP 	High +KA
+21h 48mins 	122.96.59.104 	82 	flag China 	
+	
+	HTTP 	High +KA
+21h 56mins 	190.78.226.224 	8080 	flag Venezuela 	
+	
+	HTTPS 	High +KA
+22h 9mins 	117.240.187.35 	3128 	flag India 	
+	
+	HTTPS 	High +KA
+22h 35mins 	189.219.255.148 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+22h 36mins 	189.219.85.86 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+22h 36mins 	189.219.115.215 	10000 	flag Mexico 	
+	
+	socks4/5 	High +KA
+22h 37mins 	115.31.183.94 	80 	flag Thailand 	
+	
+	HTTPS 	High +KA
+22h 51mins 	122.225.107.70 	8080 	flag China 	
+	
+	HTTP 	High +KA
+23h 42mins 	31.173.74.73 	8080 	flag Romania 	
+	
+	HTTPS 	High +KA 
