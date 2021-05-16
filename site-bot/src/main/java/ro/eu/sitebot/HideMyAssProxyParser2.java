@@ -1,7 +1,8 @@
 package ro.eu.sitebot;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.io.FileInputStream;
 import java.io.PrintWriter;
@@ -14,7 +15,7 @@ import java.util.regex.Pattern;
  * Created by emilu on 12/1/2015.
  */
 class HideMyAssProxyParser2 {
-	private static final Logger logger = Logger.getLogger(HideMyAssProxyParser2.class);
+	private static final Logger logger = LogManager.getLogger(HideMyAssProxyParser2.class);
 	private static final String version = "1.0";
 	static {
 		logger.info("Version " + version);

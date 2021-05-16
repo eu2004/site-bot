@@ -16,5 +16,5 @@
 /sitebot.iml
 /sitebot.log
 /test_regex.txt
-*.iml
 .idea
+*.iml

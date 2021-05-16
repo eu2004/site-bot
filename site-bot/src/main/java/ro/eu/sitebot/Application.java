@@ -2,7 +2,8 @@ package ro.eu.sitebot;
 
 import org.apache.commons.lang3.tuple.MutablePair;
 import org.apache.commons.lang3.tuple.Pair;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
@@ -22,7 +23,7 @@ import java.util.*;
  */
 @Component
 class Application {
-    private static final Logger logger = Logger.getLogger(Application.class);
+    private static final Logger logger = LogManager.getLogger(Application.class);
 
     @Autowired
     private ProxyConnectionInfoLoader proxyConnectionInfoLoader;
@@ -60,14 +61,14 @@ class Application {
         setSystemProperties();
 
         List<Pair<URLConnectionInfo, ProxyConnectionInfo>> randomUrlsAndProxiesPairs = new ArrayList<>(1);
-        for(URLConnectionInfo urlConnectionInfo : urlConnectionInfoLoader.getURLsList()) {
+        for (URLConnectionInfo urlConnectionInfo : urlConnectionInfoLoader.getURLsList()) {
             //first hit without proxy
             if (connectWithoutProxy) {
                 randomUrlsAndProxiesPairs.add(new MutablePair(urlConnectionInfo, null));
             }
 
             //let's go through all proxies
-            for(ProxyConnectionInfo proxyConnectionInfo : getProxiesInRandomOrder()){
+            for (ProxyConnectionInfo proxyConnectionInfo : getProxiesInRandomOrder()) {
                 randomUrlsAndProxiesPairs.add(new MutablePair(urlConnectionInfo, proxyConnectionInfo));
             }
         }
@@ -89,11 +90,11 @@ class Application {
         List<ProxyConnectionInfo> randomlyOrderedProxiesList = new ArrayList<ProxyConnectionInfo>(proxyConnectionInfoLoader.getProxiesSet());
         int[] positions = new int[randomlyOrderedProxiesList.size()];
         Set<Integer> generatedValues = new HashSet<Integer>(1);
-        for(int i = 0; i < positions.length; i++) {
+        for (int i = 0; i < positions.length; i++) {
             positions[i] = generateRandomIndex(positions.length, i, generatedValues);
         }
 
-        for(int i = 0; i < positions.length; i++) {
+        for (int i = 0; i < positions.length; i++) {
             ProxyConnectionInfo proxyConnectionInfo = randomlyOrderedProxiesList.get(i);
             randomlyOrderedProxiesList.set(i, randomlyOrderedProxiesList.get(positions[i]));
             randomlyOrderedProxiesList.set(positions[i], proxyConnectionInfo);
@@ -105,11 +106,11 @@ class Application {
         List randomlyOrderedElementsList = new ArrayList(elements);
         int[] positions = new int[randomlyOrderedElementsList.size()];
         Set<Integer> generatedValues = new HashSet<Integer>(1);
-        for(int i = 0; i < positions.length; i++) {
+        for (int i = 0; i < positions.length; i++) {
             positions[i] = generateRandomIndex(positions.length, i, generatedValues);
         }
 
-        for(int i = 0; i < positions.length; i++) {
+        for (int i = 0; i < positions.length; i++) {
             Object proxyConnectionInfo = randomlyOrderedElementsList.get(i);
             randomlyOrderedElementsList.set(i, randomlyOrderedElementsList.get(positions[i]));
             randomlyOrderedElementsList.set(positions[i], proxyConnectionInfo);
@@ -118,7 +119,7 @@ class Application {
     }
 
     private int generateRandomIndex(final int maxLength, final int currentIndex, Set<Integer> generatedValues) {
-        if(maxLength == 1) {
+        if (maxLength == 1) {
             return 0;
         }
 
@@ -133,13 +134,13 @@ class Application {
     /**
      * Stops the current thread for a random period of time (e.g. between 10 and 3 minutes)
      */
-    private void holdYourHorsesForAWhile(){
+    private void holdYourHorsesForAWhile() {
         if (beNiceToURLMax < 1) {
             return;
         }
 
         long timeInMs = 1000 * napTimeRandomizer.nextInt(beNiceToURLMax - beNiceToURLMin + 1) + beNiceToURLMin;
-        logger.info("Waiting for " + timeInMs/1000 + " sec ... ");
+        logger.info("Waiting for " + timeInMs / 1000 + " sec ... ");
         try {
             Thread.currentThread().sleep(timeInMs);
         } catch (InterruptedException e) {

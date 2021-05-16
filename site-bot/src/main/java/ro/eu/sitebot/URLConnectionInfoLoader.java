@@ -1,7 +1,8 @@
 package ro.eu.sitebot;
 
 import au.com.bytecode.opencsv.CSVReader;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;
@@ -21,7 +22,7 @@ import java.util.List;
  */
 @Component
 class URLConnectionInfoLoader implements ApplicationContextAware{
-    private static final Logger logger = Logger.getLogger(URLConnectionInfoLoader.class);
+    private static final Logger logger = LogManager.getLogger(URLConnectionInfoLoader.class);
     private ApplicationContext applicationContext;
     private List<URLConnectionInfo> urlsList;
 

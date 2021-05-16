@@ -12,7 +12,8 @@ import java.util.List;
 import java.util.Random;
 import org.apache.commons.lang3.tuple.MutablePair;
 import org.apache.commons.lang3.tuple.Pair;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
@@ -29,7 +30,7 @@ import ro.eu.sitebot.dto.URLConnectionInfo;
  */
 @Component
 public class URLAccessor {
-    private static final Logger logger = Logger.getLogger(URLAccessor.class);
+    private static final Logger logger = LogManager.getLogger(URLAccessor.class);
 
     @Value("${url.page.reading.random.min.time.in.sec}")
     private int randomMinTimeInSec;

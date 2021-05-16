@@ -1,6 +1,7 @@
 package ro.eu.sitebot.httpclient;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -16,7 +17,7 @@ import ro.eu.sitebot.dto.ProxyConnectionInfo;
  * Created by emilu on 1/9/2016.
  */
 class WebDriverBuilder {
-    private static final Logger logger = Logger.getLogger(WebDriverBuilder.class);
+    private static final Logger logger = LogManager.getLogger(WebDriverBuilder.class);
     private BrowserType browserType;
     private ProxyConnectionInfo proxyConnectionInfo;
 
